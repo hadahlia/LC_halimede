@@ -9,21 +9,27 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1150276337, guid: 08d77adc42c64b4448c5cb051ff586a6, type: 3}
+  m_Script: {fileID: 1150276337, guid: 2f472bddd1970504db1f4c56844aac6e, type: 3}
   m_Name: HalimedeExtended
   m_EditorClassIdentifier: 
-  contentSourceName: 
-  selectableLevel: {fileID: 11400000, guid: ba6a4e58e1b132a4c9a7e49e0d86af4e, type: 2}
+  <ContentTags>k__BackingField: []
+  <SelectableLevel>k__BackingField: {fileID: 11400000, guid: ee374525a63d68247899d3750e35b362,
+    type: 2}
   routePrice: 0
-  isHidden: 0
-  isLocked: 0
-  lockedNodeText: 
-  storyLogs: []
-  allowedDungeonContentTypes: 2
+  <OverrideDynamicRiskLevelAssignment>k__BackingField: 0
+  <OverrideQuicksandPrefab>k__BackingField: {fileID: 0}
+  <IsRouteHidden>k__BackingField: 0
+  <IsRouteLocked>k__BackingField: 0
+  <LockedRouteNodeText>k__BackingField: 
+  <ShipFlyToMoonClip>k__BackingField: {fileID: 0}
+  <ShipFlyFromMoonClip>k__BackingField: {fileID: 0}
+  <SceneSelections>k__BackingField: []
+  <OverrideDustStormVolumeSize>k__BackingField: {x: 0, y: 0, z: 0}
+  <OverrideFoggyVolumeSize>k__BackingField: {x: 0, y: 0, z: 0}
+  <OverrideInfoNodeDescription>k__BackingField: 
+  <OverrideRouteNodeDescription>k__BackingField: 
+  <OverrideRouteConfirmNodeDescription>k__BackingField: 
+  <GenerateAutomaticConfigurationOptions>k__BackingField: 1
+  selectableLevel: {fileID: 0}
+  contentSourceName: 
   levelTags: []
-  levelType: 0
-  infoNodeDescripton: 
-  routeNode: {fileID: 0}
-  routeConfirmNode: {fileID: 0}
-  infoNode: {fileID: 0}
-  generateAutomaticConfigurationOptions: 0
