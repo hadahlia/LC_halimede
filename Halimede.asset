@@ -23,10 +23,10 @@ MonoBehaviour:
 
 '
   videoReel: {fileID: 0}
-  riskLevel: B
+  riskLevel: A
   timeToArrive: 8
   OffsetFromGlobalTime: 0
-  DaySpeedMultiplier: 1
+  DaySpeedMultiplier: 2.1
   planetHasTime: 1
   randomWeathers:
   - weatherType: 2
@@ -44,9 +44,9 @@ MonoBehaviour:
   - weatherType: 3
     weatherVariable: 5
     weatherVariable2: 13
-  overrideWeather: 0
-  overrideWeatherType: 0
-  currentWeather: -1
+  overrideWeather: 1
+  overrideWeatherType: 1
+  currentWeather: 1
   factorySizeMultiplier: 1.4
   dungeonFlowTypes:
   - id: 0
@@ -69,7 +69,7 @@ MonoBehaviour:
   maxScrap: 21
   minTotalScrapValue: 450
   maxTotalScrapValue: 1300
-  levelAmbienceClips: {fileID: 11400000, guid: c9c2cd9cb8460074fa279655e19bbc16, type: 2}
+  levelAmbienceClips: {fileID: 11400000, guid: ab8be7f935d56e740890344688e31790, type: 2}
   maxEnemyPowerCount: 8
   maxOutsideEnemyPowerCount: 15
   maxDaytimeEnemyPowerCount: 20
